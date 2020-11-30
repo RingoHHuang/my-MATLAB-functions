@@ -1,6 +1,6 @@
 # My MATLAB Functions
 
-This repository contains custom convenience functions that I frequently use for my projects. 
+This repository contains custom convenience functions that I frequently use for my MATLAB projects. 
 
 Mostly, I'm tired of rewriting the same code because I lacked an organized system of saving my convenience functions.
 
